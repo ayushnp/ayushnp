@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushnp
-- 👀 I’m interested in Cyber-security and Blockchain
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science  and Blockchain
+- 🌱 I’m currently learning Python and SQL..
 - 💞️ I’m looking to collaborate on anything releated to my interest..
 - 📫 How to reach me - ayushkotegar10@gmail.com
 - 😄 Pronouns: He/Him
